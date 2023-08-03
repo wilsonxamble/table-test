@@ -2,6 +2,26 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
 
+# Angular: 16.1.7
+... animations, common, compiler, compiler-cli, core, forms
+... platform-browser, platform-browser-dynamic, router
+
+## Package Version
+
+| Package                        | Version |
+|--------------------------------|---------|
+| @angular-devkit/architect      | 0.1601.6 |
+| @angular-devkit/build-angular  | 16.1.6  |
+| @angular-devkit/core           | 16.1.6  |
+| @angular-devkit/schematics     | 16.1.6  |
+| @angular/cdk                   | 16.1.6  |
+| @angular/cli                   | 16.1.6  |
+| @angular/material              | 16.1.6  |
+| @schematics/angular            | 16.1.6  |
+| rxjs                           | 7.8.1   |
+| typescript                     | 5.1.6   |
+| zone.js                        | 0.13.1  |
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
